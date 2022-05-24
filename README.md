@@ -4,6 +4,15 @@
 Semantic data transformations & especially hidden semantic data transformations
 are everywhere.
 
+# The key idea # 
+They key idea of light semantic data transformation is 
+- that you should separate business/"semantic" logic data transformations like renaming things, 
+deducing things from analytical data transformations like aggregating, grouping, counting,...
+- that this is extremely hard because of a lot of "hidden semantic transformations", assumptions you're making on
+interfaces which usually are not as fixed as you might like
+- that you therefore simply separate them and try to mostly leave out the business & "semantic" data transformations.
+- and test the hell out of your "hidden" assumptions right at the start.
+
 ## What's in here ##
 - [A light introduction to light data transformations](Tranformations_Light.ipynb)
 - [One short example of light transformations applied](Applied 1.ipynb)
