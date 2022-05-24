@@ -1,0 +1,7 @@
+day,OrderId,Status,comment
+2022-01-01,1,A,""
+2022-01-01,2,F,"returned b.c. xyz is broken"
+2022-01-02,3,A,""
+2022-01-03,4,B,""
+2022-01-04,5,A,""
+2022-01-05,6,F,"something seriously went wrong here, please go and check that out, need to refund the order, now!"
