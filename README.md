@@ -27,3 +27,5 @@ not 1 without the other! (So uniqueness on front model is fine, if
   I have uniqueness in source!)
 - "reason for X; making complexer things apparent"
 - "hidden domain knowledge => without fixed interfaces always somewhere..."
+
+- Examples from ML (because you watched,...) - predictions etc.
